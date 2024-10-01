@@ -1,2 +1,2 @@
-# Model make
+# GMC Sierra 1500
 
