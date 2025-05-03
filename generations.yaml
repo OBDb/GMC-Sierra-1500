@@ -1,0 +1,25 @@
+generations:
+  - name: "First Generation (GMT400)"
+    start_year: 1988
+    end_year: 1998
+    description: "The first-generation Sierra 1500 (though the '1500' designation wasn't used until later) established GMC's full-size pickup as a distinct model from Chevrolet with more premium positioning. Built on GM's GMT400 platform, it featured more aerodynamic styling than its predecessor. Available in regular cab and extended cab configurations with various bed lengths, it offered versatility for different uses. Engine options included V6 and V8 gasoline engines, plus a 6.2L/6.5L diesel option. The interior was more car-like than previous generations, with better ergonomics and comfort features. This generation introduced many innovations including an independent front suspension for improved ride quality, and was the first American pickup to offer a third door on extended cab models in 1996."
+
+  - name: "Second Generation (GMT800)"
+    start_year: 1999
+    end_year: 2006
+    description: "The second-generation Sierra 1500 featured more distinctive styling to differentiate it from its Chevrolet Silverado counterpart, with unique front fascia, interior trim, and available features. Built on GM's GMT800 platform, it offered regular cab, extended cab, and the new crew cab configurations. Powertrain options included various Vortec V8 engines, with a focus on improved power and efficiency. The interior was significantly more refined, with better materials and design, particularly in upscale trims like the Denali. This generation saw the introduction of the luxury-oriented Sierra Denali as a distinct model, establishing GMC's premium positioning in the truck market. A significant update in 2003 refreshed the styling and interior while adding features and technology."
+
+  - name: "Third Generation (GMT900)"
+    start_year: 2007
+    end_year: 2013
+    description: "The third-generation Sierra 1500 featured more sophisticated styling with better aerodynamics, while maintaining a bold, truck-like appearance. Built on GM's GMT900 platform, it offered improved structural rigidity and crash protection. Engine options evolved to include more efficient V8s with features like Active Fuel Management (cylinder deactivation). The interior saw significant improvements in design, material quality, and technology, including available navigation and enhanced connectivity features. The luxury-oriented Denali trim expanded its prominence in the lineup, featuring distinctive styling and more premium appointments. This generation maintained the Sierra's position as GMC's flagship vehicle during a challenging period for the auto industry, including GM's bankruptcy and restructuring."
+
+  - name: "Fourth Generation (K2XX)"
+    start_year: 2014
+    end_year: 2018
+    description: "The fourth-generation Sierra 1500 featured more distinctive styling to further differentiate it from the Silverado, including unique headlights, grille, and bed features. Built on GM's K2XX platform, it offered reduced weight and improved capabilities. Engine options evolved to include more efficient V6 and V8 engines, including an EcoTec3 family with direct injection, variable valve timing, and cylinder deactivation. The interior offered improved materials, design, and technology, including the IntelliLink infotainment system. This generation introduced innovative features like the MultiPro tailgate on later Denali models and expanded use of premium materials and technology. The Sierra Denali solidified its position as a luxury truck, appealing to buyers who wanted capability with premium appointments."
+
+  - name: "Fifth Generation (T1XX)"
+    start_year: 2019
+    end_year: null
+    description: "The current Sierra 1500 features the most differentiation from its Chevrolet counterpart in the model's history, with unique styling, features, and technology. Built on GM's T1XX platform, it offers reduced weight while increasing capability and refinement. Engine options include a turbocharged four-cylinder, V6, and multiple V8 options, plus a 3.0L Duramax diesel. The interior represents a significant step forward in design and technology, particularly in higher trims, with available features including a 15-inch head-up display, digital rearview mirror, and multi-color touchscreen interfaces. Innovative features include the MultiPro tailgate with six functions, available CarbonPro carbon fiber composite bed, and transparent trailer view camera system. The Sierra Denali Ultimate introduced in 2022 established a new premium benchmark with standard adaptive suspension, open-pore wood trim, and exclusive technologies. This generation firmly positions the Sierra 1500 as GMC's technology and feature leader, with clear differentiation from the Silverado through exclusive features and more premium positioning."
