@@ -3,6 +3,22 @@
   "signals": [
     {"id": "SIERRA1500_VSS", "path": "Movement", "fmt": { "len": 8, "max": 255, "unit": "kilometersPerHour" }, "name": "Vehicle speed", "suggestedMetric": "speed"}
   ]},
+{ "hdr": "760", "rax": "760", "dbg": true, "cmd": {"22": "4051"}, "freq": 0.25,
+  "signals": [
+    {"id": "SIERRA1500_VSS_FL", "path": "Movement", "fmt": { "len": 1, "max": 255, "unit": "kilometersPerHour" }, "name": "Front Left Wheel Speed"}
+  ]},
+{ "hdr": "760", "rax": "760", "dbg": true, "cmd": {"22": "4052"}, "freq": 0.25,
+  "signals": [
+    {"id": "SIERRA1500_VSS_FR", "path": "Movement", "fmt": { "len": 1, "max": 255, "unit": "kilometersPerHour" }, "name": "Front Right Wheel Speed"}
+  ]},
+{ "hdr": "760", "rax": "760", "dbg": true, "cmd": {"22": "4053"}, "freq": 0.25,
+  "signals": [
+    {"id": "SIERRA1500_VSS_RL", "path": "Movement", "fmt": { "len": 1, "max": 255, "unit": "kilometersPerHour" }, "name": "Rear Left Wheel Speed"}
+  ]},
+{ "hdr": "760", "rax": "760", "dbg": true, "cmd": {"22": "4054"}, "freq": 0.25,
+  "signals": [
+    {"id": "SIERRA1500_VSS_RR", "path": "Movement", "fmt": { "len": 1, "max": 255, "unit": "kilometersPerHour" }, "name": "Rear Right Wheel Speed"}
+  ]},
 { "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "248E"}, "freq": 5,
   "signals": [
     {"id": "SIERRA1500_TP_FL", "path": "Tires", "fmt": { "len": 8, "max": 255, "unit": "psi" }, "name": "Left Front Tire Pressure", "suggestedMetric": "frontLeftTirePressure"}
