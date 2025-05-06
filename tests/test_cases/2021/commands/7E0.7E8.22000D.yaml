@@ -11,12 +11,24 @@ test_cases:
 - response: 7E80462000D03
   expected_values:
     SIERRA1500_VSS: 3
+- response: 7E80462000D04
+  expected_values:
+    SIERRA1500_VSS: 4
 - response: 7E80462000D05
   expected_values:
     SIERRA1500_VSS: 5
+- response: 7E80462000D06
+  expected_values:
+    SIERRA1500_VSS: 6
+- response: 7E80462000D07
+  expected_values:
+    SIERRA1500_VSS: 7
 - response: 7E80462000D0F
   expected_values:
     SIERRA1500_VSS: 15
+- response: 7E80462000D10
+  expected_values:
+    SIERRA1500_VSS: 16
 - response: 7E80462000D11
   expected_values:
     SIERRA1500_VSS: 17
@@ -26,6 +38,15 @@ test_cases:
 - response: 7E80462000D18
   expected_values:
     SIERRA1500_VSS: 24
+- response: 7E80462000D20
+  expected_values:
+    SIERRA1500_VSS: 32
+- response: 7E80462000D21
+  expected_values:
+    SIERRA1500_VSS: 33
+- response: 7E80462000D24
+  expected_values:
+    SIERRA1500_VSS: 36
 - response: 7E80462000D28
   expected_values:
     SIERRA1500_VSS: 40
@@ -53,6 +74,9 @@ test_cases:
 - response: 7E80462000D3F
   expected_values:
     SIERRA1500_VSS: 63
+- response: 7E80462000D40
+  expected_values:
+    SIERRA1500_VSS: 64
 - response: 7E80462000D41
   expected_values:
     SIERRA1500_VSS: 65
@@ -80,6 +104,9 @@ test_cases:
 - response: 7E80462000D49
   expected_values:
     SIERRA1500_VSS: 73
+- response: 7E80462000D4A
+  expected_values:
+    SIERRA1500_VSS: 74
 - response: 7E80462000D4B
   expected_values:
     SIERRA1500_VSS: 75
@@ -92,6 +119,9 @@ test_cases:
 - response: 7E80462000D4E
   expected_values:
     SIERRA1500_VSS: 78
+- response: 7E80462000D4F
+  expected_values:
+    SIERRA1500_VSS: 79
 - response: 7E80462000D50
   expected_values:
     SIERRA1500_VSS: 80
@@ -107,3 +137,24 @@ test_cases:
 - response: 7E80462000D55
   expected_values:
     SIERRA1500_VSS: 85
+- response: 7E80462000D72
+  expected_values:
+    SIERRA1500_VSS: 114
+- response: 7E80462000D7D
+  expected_values:
+    SIERRA1500_VSS: 125
+- response: 7E80462000D81
+  expected_values:
+    SIERRA1500_VSS: 129
+- response: 7E80462000D82
+  expected_values:
+    SIERRA1500_VSS: 130
+- response: 7E80462000D85
+  expected_values:
+    SIERRA1500_VSS: 133
+- response: 7E80462000D87
+  expected_values:
+    SIERRA1500_VSS: 135
+- response: 7E80462000DFF
+  expected_values:
+    SIERRA1500_VSS: 255
