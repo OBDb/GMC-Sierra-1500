@@ -79,6 +79,8 @@ unsupported_commands_by_ecu:
   - 7E0.7E8.222491
   - 7E0.7E8.22C901
   - 7E0.7E8.22C902
+  7E2:
+  - 7E2.7EA.0142
   7E4:
   - 7E4.7EC.22434F
   - 7E4.7EC.224368
@@ -90,6 +92,8 @@ unsupported_commands_by_ecu:
   - 7E4.7EC.2243AF
   - 7E4.7EC.224531
   - 7E4.7EC.228334
+  7E5:
+  - 7E5.7ED.0142
   7E7:
   - 7E7.7EF.224181
   - 7E7.7EF.224182
