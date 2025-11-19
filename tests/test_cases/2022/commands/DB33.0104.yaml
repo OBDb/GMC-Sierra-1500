@@ -1,0 +1,20 @@
+command_id: DB33.0104
+test_cases:
+- expected_values:
+    LOAD_PCT: 5.09804
+  response: 18DAF1110341040D
+- expected_values:
+    LOAD_PCT: 18.82353
+  response: 18DAF11103410430
+- expected_values:
+    LOAD_PCT: 21.96078
+  response: 18DAF11103410438
+- expected_values:
+    LOAD_PCT: 22.7451
+  response: 18DAF1110341043A
+- expected_values:
+    LOAD_PCT: 25.88235
+  response: 18DAF11103410442
+- expected_values:
+    LOAD_PCT: 31.37255
+  response: 18DAF11103410450
