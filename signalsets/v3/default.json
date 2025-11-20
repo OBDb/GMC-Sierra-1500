@@ -1,5 +1,5 @@
 { "commands": [
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "000D"}, "freq": 0.25, "dbgfilter": { "to": 2015, "years": [2017, 2018], "from": 2022 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "000D"}, "freq": 0.25, "dbgfilter": { "to": 2013, "years": [2015, 2017, 2018], "from": 2022 },
   "signals": [
     {"id": "SIERRA1500_VSS", "path": "Movement", "fmt": { "len": 8, "max": 255, "unit": "kilometersPerHour" }, "name": "Vehicle speed", "suggestedMetric": "speed"}
   ]},
