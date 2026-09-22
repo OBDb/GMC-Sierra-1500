@@ -1,0 +1,11 @@
+command_id: DB33.012E
+test_cases:
+- expected_values:
+    EVAP_PCT: 5.88235
+  response: 18DAF11103412E0F
+- expected_values:
+    EVAP_PCT: 24.31373
+  response: 18DAF11103412E3E55555555
+- expected_values:
+    EVAP_PCT: 52.94118
+  response: 18DAF11103412E87
