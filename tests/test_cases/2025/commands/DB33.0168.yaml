@@ -1,0 +1,162 @@
+command_id: DB33.0168
+test_cases:
+- expected_values:
+    IAT_11: 26
+    IAT_11_SUP: 1
+    IAT_12: 31
+    IAT_12_SUP: 1
+    IAT_13: 67
+    IAT_13_SUP: 1
+    IAT_21: 0
+    IAT_21_SUP: 0
+    IAT_22: 0
+    IAT_22_SUP: 0
+    IAT_23: 0
+    IAT_23_SUP: 0
+  response: |-
+    18DAF111100941680742476B
+    18DAF1112128282855555555
+- expected_values:
+    IAT_11: 26
+    IAT_11_SUP: 1
+    IAT_12: 31
+    IAT_12_SUP: 1
+    IAT_13: 82
+    IAT_13_SUP: 1
+    IAT_21: 0
+    IAT_21_SUP: 0
+    IAT_22: 0
+    IAT_22_SUP: 0
+    IAT_23: 0
+    IAT_23_SUP: 0
+  response: |-
+    18DAF111100941680742477A
+    18DAF1112128282855555555
+- expected_values:
+    IAT_11: 34
+    IAT_11_SUP: 1
+    IAT_12: 35
+    IAT_12_SUP: 1
+    IAT_13: 34
+    IAT_13_SUP: 1
+    IAT_21: 0
+    IAT_21_SUP: 0
+    IAT_22: 0
+    IAT_22_SUP: 0
+    IAT_23: 0
+    IAT_23_SUP: 0
+  response: |-
+    18DAF11110094168074A4B4A
+    18DAF1112128282855555555
+- expected_values:
+    IAT_11: 36
+    IAT_11_SUP: 1
+    IAT_12: 37
+    IAT_12_SUP: 1
+    IAT_13: 37
+    IAT_13_SUP: 1
+    IAT_21: 0
+    IAT_21_SUP: 0
+    IAT_22: 0
+    IAT_22_SUP: 0
+    IAT_23: 0
+    IAT_23_SUP: 0
+  response: |-
+    18DAF11110094168074C4D4D
+    18DAF1112128282855555555
+- expected_values:
+    IAT_11: 45
+    IAT_11_SUP: 1
+    IAT_12: 52
+    IAT_12_SUP: 1
+    IAT_13: 55
+    IAT_13_SUP: 1
+    IAT_21: 0
+    IAT_21_SUP: 0
+    IAT_22: 0
+    IAT_22_SUP: 0
+    IAT_23: 0
+    IAT_23_SUP: 0
+  response: |-
+    18DAF1111009416807555C5F
+    18DAF1112128282855555555
+- expected_values:
+    IAT_11: 45
+    IAT_11_SUP: 1
+    IAT_12: 53
+    IAT_12_SUP: 1
+    IAT_13: 54
+    IAT_13_SUP: 1
+    IAT_21: 0
+    IAT_21_SUP: 0
+    IAT_22: 0
+    IAT_22_SUP: 0
+    IAT_23: 0
+    IAT_23_SUP: 0
+  response: |-
+    18DAF1111009416807555D5E
+    18DAF1112128282855555555
+- expected_values:
+    IAT_11: 45
+    IAT_11_SUP: 1
+    IAT_12: 54
+    IAT_12_SUP: 1
+    IAT_13: 60
+    IAT_13_SUP: 1
+    IAT_21: 0
+    IAT_21_SUP: 0
+    IAT_22: 0
+    IAT_22_SUP: 0
+    IAT_23: 0
+    IAT_23_SUP: 0
+  response: |-
+    18DAF1111009416807555E64
+    18DAF1112128282855555555
+- expected_values:
+    IAT_11: 45
+    IAT_11_SUP: 1
+    IAT_12: 55
+    IAT_12_SUP: 1
+    IAT_13: 53
+    IAT_13_SUP: 1
+    IAT_21: 0
+    IAT_21_SUP: 0
+    IAT_22: 0
+    IAT_22_SUP: 0
+    IAT_23: 0
+    IAT_23_SUP: 0
+  response: |-
+    18DAF1111009416807555F5D
+    18DAF1112128282855555555
+- expected_values:
+    IAT_11: 47
+    IAT_11_SUP: 1
+    IAT_12: 57
+    IAT_12_SUP: 1
+    IAT_13: 56
+    IAT_13_SUP: 1
+    IAT_21: 0
+    IAT_21_SUP: 0
+    IAT_22: 0
+    IAT_22_SUP: 0
+    IAT_23: 0
+    IAT_23_SUP: 0
+  response: |-
+    18DAF1111009416807576160
+    18DAF1112128282855555555
+- expected_values:
+    IAT_11: 48
+    IAT_11_SUP: 1
+    IAT_12: 58
+    IAT_12_SUP: 1
+    IAT_13: 74
+    IAT_13_SUP: 1
+    IAT_21: 0
+    IAT_21_SUP: 0
+    IAT_22: 0
+    IAT_22_SUP: 0
+    IAT_23: 0
+    IAT_23_SUP: 0
+  response: |-
+    18DAF1111009416807586272
+    18DAF1112128282855555555
