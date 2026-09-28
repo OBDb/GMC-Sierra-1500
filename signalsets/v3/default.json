@@ -1,7 +1,11 @@
 { "commands": [
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "000D"}, "freq": 0.25, "dbgfilter": { "to": 2013, "years": [2015, 2017, 2018], "from": 2022 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "000D"}, "freq": 0.25, "dbgfilter": { "to": 2007, "years": [2009, 2012, 2015], "from": 2022 },
   "signals": [
     {"id": "SIERRA1500_VSS", "path": "Movement", "fmt": { "len": 8, "max": 255, "unit": "kilometersPerHour" }, "name": "Vehicle speed", "suggestedMetric": "speed"}
+  ]},
+{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "115C"}, "freq": 1,
+  "signals": [
+    {"id": "SIERRA1500_EOP", "path": "Engine", "fmt": { "len": 8, "max": 131.39, "min": -21.6, "mul": 3, "div": 5, "add": -21.6, "nullmax": 131.39, "unit": "psi" }, "name": "Engine oil pressure", "description": "Reads 0 psi at the sensor's zero-pressure floor, raw 36; the 0.6 psi slope is not yet checked against a gauge."}
   ]},
 { "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "248E"}, "freq": 5,
   "signals": [
@@ -19,19 +23,9 @@
   "signals": [
     {"id": "SIERRA1500_TP_RL", "path": "Tires", "fmt": { "len": 8, "max": 255, "unit": "psi" }, "name": "Left Rear Tire Pressure", "suggestedMetric": "rearLeftTirePressure"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "C901"}, "freq": 5,
+{ "hdr": "7E2", "rax": "7EA", "dbg": true, "cmd": {"22": "199A"}, "freq": 0.25,
   "signals": [
-    {"id": "SIERRA1500_TP_P1", "path": "Tires", "fmt": { "len": 8, "max": 255, "unit": "psi" }, "name": "Alternative Tire 1 Pressure"},
-    {"id": "SIERRA1500_TP_P2", "path": "Tires", "fmt": { "len": 8, "max": 255, "unit": "psi" }, "name": "Alternative Tire 2 Pressure"},
-    {"id": "SIERRA1500_TP_P3", "path": "Tires", "fmt": { "len": 8, "max": 255, "unit": "psi" }, "name": "Alternative Tire 3 Pressure"},
-    {"id": "SIERRA1500_TP_P4", "path": "Tires", "fmt": { "len": 8, "max": 255, "unit": "psi" }, "name": "Alternative Tire 4 Pressure"}
-  ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "C902"}, "freq": 5,
-  "signals": [
-    {"id": "SIERRA1500_TP_T1", "path": "Tires", "fmt": { "len": 8, "max": 255, "unit": "fahrenheit" }, "name": "Tire 1 Temp"},
-    {"id": "SIERRA1500_TP_T2", "path": "Tires", "fmt": { "len": 8, "max": 255, "unit": "fahrenheit" }, "name": "Tire 2 Temp"},
-    {"id": "SIERRA1500_TP_T3", "path": "Tires", "fmt": { "len": 8, "max": 255, "unit": "fahrenheit" }, "name": "Tire 3 Temp"},
-    {"id": "SIERRA1500_TP_T4", "path": "Tires", "fmt": { "len": 8, "max": 255, "unit": "fahrenheit" }, "name": "Tire 4 Temp"}
+    {"id": "SIERRA1500_CURRENT_GEAR_VAR_2", "path": "Transmission", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "Current gear"}
   ]}
 ]
 }
