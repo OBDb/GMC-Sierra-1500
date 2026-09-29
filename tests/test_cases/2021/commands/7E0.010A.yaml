@@ -1,6 +1,9 @@
 command_id: 7E0.010A
 test_cases:
 - expected_values:
+    FP: 327
+  response: 7E803410A6D
+- expected_values:
     FP: 450
   response: 7E803410A96
 - expected_values:
