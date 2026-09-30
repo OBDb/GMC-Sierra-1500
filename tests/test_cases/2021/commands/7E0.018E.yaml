@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     TQ_FR: 8
   response: 7E803418E85
+- expected_values:
+    TQ_FR: 11
+  response: 7E803418E88

@@ -2,4 +2,22 @@ command_id: 7E0.7E8.22000D
 test_cases:
 - expected_values:
     SIERRA1500_VSS: 0
+  response: |-
+    22000D1
+    7E80462000D00
+- expected_values:
+    SIERRA1500_VSS: 31
+  response: |-
+    22000D1
+    7E80462000D1F
+- expected_values:
+    SIERRA1500_VSS: 81
+  response: |-
+    22000D1
+    7E80462000D51
+- expected_values:
+    SIERRA1500_VSS: 0
   response: 7E80462000D00
+- expected_values:
+    SIERRA1500_VSS: 105
+  response: 7E80462000D69

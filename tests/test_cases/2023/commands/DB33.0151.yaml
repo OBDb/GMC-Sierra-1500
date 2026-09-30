@@ -1,0 +1,11 @@
+command_id: DB33.0151
+test_cases:
+- expected_values:
+    FUEL_TYP: GAS
+  response: 18DAF11103415101
+- expected_values:
+    FUEL_TYP: GAS
+  response: 18DAF1110341510155555555
+- expected_values:
+    FUEL_TYP: DSL
+  response: 18DAF11103415104

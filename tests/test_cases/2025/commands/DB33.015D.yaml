@@ -1,0 +1,32 @@
+command_id: DB33.015D
+test_cases:
+- expected_values:
+    FUEL_TIMING: -210
+  response: 18DAF11104415D6680
+- expected_values:
+    FUEL_TIMING: -210
+  response: 18DAF11104415D6756
+- expected_values:
+    FUEL_TIMING: -210
+  response: 18DAF11104415D6774
+- expected_values:
+    FUEL_TIMING: -210
+  response: 18DAF11104415D67E5
+- expected_values:
+    FUEL_TIMING: -210
+  response: 18DAF11104415D68C3
+- expected_values:
+    FUEL_TIMING: -210
+  response: 18DAF11104415D6900
+- expected_values:
+    FUEL_TIMING: -210
+  response: 18DAF11104415D69AC
+- expected_values:
+    FUEL_TIMING: -210
+  response: 18DAF11104415D69EA
+- expected_values:
+    FUEL_TIMING: -210
+  response: 18DAF11104415D6A25
+- expected_values:
+    FUEL_TIMING: -210
+  response: 18DAF11104415D6D4F

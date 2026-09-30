@@ -1,0 +1,5 @@
+command_id: DB33.0162
+test_cases:
+- expected_values:
+    TQ_ACT: 83
+  response: 18DAF111034162D0
