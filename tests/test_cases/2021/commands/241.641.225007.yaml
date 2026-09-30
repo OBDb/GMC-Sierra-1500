@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     SIERRA1500_TP_RR_BCM: 236.5
   response: 641056250070EC8
+- expected_values:
+    SIERRA1500_TP_RR_BCM: 239.25
+  response: 641056250070EF4
