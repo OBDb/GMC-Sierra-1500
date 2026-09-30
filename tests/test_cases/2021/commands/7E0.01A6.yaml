@@ -11,8 +11,8 @@ test_cases:
     01A6
     7E80641A6000CC1F6
 - expected_values:
-    ODO: 78751.9
-  response: 7E80641A6000C043F
+    ODO: 76399.9
+  response: 7E80641A6000BA85F
 - expected_values:
     ODO: 82841.6
   response: 7E80641A6000CA400
