@@ -1,0 +1,5 @@
+command_id: 241.641.224008
+test_cases:
+- expected_values:
+    SIERRA1500_TID_RL: 2152758172
+  response: 6410762400880507B9C
