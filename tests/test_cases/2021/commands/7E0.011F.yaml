@@ -1,6 +1,9 @@
 command_id: 7E0.011F
 test_cases:
 - expected_values:
+    RUNTM: 60
+  response: 7E804411F003C
+- expected_values:
     RUNTM: 183
   response: 7E804411F00B7
 - expected_values:

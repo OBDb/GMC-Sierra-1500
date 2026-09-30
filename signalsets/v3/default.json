@@ -1,5 +1,7 @@
 { "ecu": [
     { "hdr": "241",  "rax": "641", "type": "bodyControl" },
+    { "hdr": "7E0",                "type": "engine" },
+    { "hdr": "7E2",                "type": "transmission" },
     { "hdr": "DA40", "rax": "40",  "type": "bodyControl" }
   ],
   "commands": [
