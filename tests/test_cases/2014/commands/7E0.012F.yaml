@@ -21,8 +21,8 @@ test_cases:
     012F1
     7E803412F41
 - expected_values:
-    FLI: 0.39216
-  response: 7E803412F01
+    FLI: null
+  response: 7E803412F00
 - expected_values:
     FLI: 68.23529
   response: 7E803412FAE
