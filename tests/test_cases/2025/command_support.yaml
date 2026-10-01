@@ -107,6 +107,8 @@ supported_commands_by_ecu:
   - DB33.01A2:CYL_RATE
   - DB33.01A6:ODO
 unsupported_commands_by_ecu:
+  "241":
+  - 241.641.224006:SIERRA1500_TID_FR
   "7E0":
   - 7E0.7E8.22000D:SIERRA1500_VSS
   - 7E0.7E8.22248E
