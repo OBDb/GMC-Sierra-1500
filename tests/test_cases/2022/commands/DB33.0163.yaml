@@ -1,5 +1,8 @@
 command_id: DB33.0163
 test_cases:
 - expected_values:
+    TQ_REF: 460
+  response: 18DAF11104416301CC
+- expected_values:
     TQ_REF: 582
   response: 18DAF1110441630246
