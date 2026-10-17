@@ -7,5 +7,5 @@ test_cases:
     EXH_RATE: 51
   response: 18DAF11104419E00FF
 - expected_values:
-    EXH_RATE: 973.2
-  response: 18DAF11104419E1302
+    EXH_RATE: 1030.8
+  response: 18DAF11104419E1422
