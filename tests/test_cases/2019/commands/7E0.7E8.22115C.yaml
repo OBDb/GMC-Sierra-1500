@@ -1,0 +1,26 @@
+command_id: 7E0.7E8.22115C
+test_cases:
+- expected_values:
+    SIERRA1500_EOP: 24.6
+  response: 7E80462115C4D
+- expected_values:
+    SIERRA1500_EOP: 31.2
+  response: 7E80462115C58
+- expected_values:
+    SIERRA1500_EOP: 36.6
+  response: 7E80462115C61
+- expected_values:
+    SIERRA1500_EOP: 37.8
+  response: 7E80462115C63
+- expected_values:
+    SIERRA1500_EOP: 38.4
+  response: 7E80462115C64
+- expected_values:
+    SIERRA1500_EOP: 39.6
+  response: 7E80462115C66
+- expected_values:
+    SIERRA1500_EOP: 42.6
+  response: 7E80462115C6B
+- expected_values:
+    SIERRA1500_EOP: 43.2
+  response: 7E80462115C6C
