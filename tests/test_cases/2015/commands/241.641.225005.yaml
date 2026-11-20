@@ -1,0 +1,14 @@
+command_id: 241.641.225005
+test_cases:
+- expected_values:
+    SIERRA1500_TP_FL_BCM: 244.75
+  response: 641056250050F4C
+- expected_values:
+    SIERRA1500_TP_FL_BCM: 247.5
+  response: 641056250050F78
+- expected_values:
+    SIERRA1500_TP_FL_BCM: 250.25
+  response: 641056250050FA4
+- expected_values:
+    SIERRA1500_TP_FL_BCM: 253
+  response: 641056250050FD0
