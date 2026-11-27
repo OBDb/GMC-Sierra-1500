@@ -4,14 +4,13 @@ test_cases:
     SIERRA1500_TP_FR_BCM: 250.25
   response: 641056250060FA4
 - expected_values:
-    SIERRA1500_TP_FR_BCM: 253
-  response: 641056250060FD0
-- expected_values:
     SIERRA1500_TP_FR_BCM: 255.75
   response: 641056250060FFC
 - expected_values:
-    SIERRA1500_TP_FR_BCM: 258.5
-  response: '641056250061028'
+    SIERRA1500_TP_FR_BCM: 272.25
+  response: '641056250061104'
 - expected_values:
-    SIERRA1500_TP_FR_BCM: 264
-  response: '641056250061080'
+    SIERRA1500_TP_FR_BCM: 283.25
+  response: |-
+    6410562500611B4
+    6410562500611B4
